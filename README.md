@@ -1,0 +1,2 @@
+# Academate
+Smart Student Hub
